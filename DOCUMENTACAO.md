@@ -69,9 +69,7 @@ A segurança é o ponto mais forte da aplicação, implementada com as seguintes
 
 ---
 
-## V. Próximos Passos Sugeridos
-
-O projeto pode ser expandido adicionando as seguintes funcionalidades de alta prioridade:
+## V. Próximos Passos sugeridos
 
 1.  **Imagens:** Adicionar a capacidade de upload de imagens para o produto (uso de `storage` e *file handling*).
 2.  **Categorias:** Implementar a modelagem de `Categorias` para organizar os produtos por tipo (requer nova migration e Model, e relações `belongsTo`).
